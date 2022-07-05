@@ -1,0 +1,2 @@
+class ObjectIsNotFoundOnWebPage(Exception):
+    pass
